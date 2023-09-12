@@ -1,0 +1,30 @@
+_repo: The-juvenile-forget-me-not-b-A-Christmas-and-New-Year-s-present_71608
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2023-09-10'
+identifiers:
+  gutenberg: '71608'
+language: en
+pgterms:marc904: https://archive.org/details/juvenileforgetme00bachiala/page/n11/mode/2up
+pgterms:marc905: 20211127131755anonymous
+pgterms:marc906: '1855'
+pgterms:marc907: US
+production_note: Richard Tonsing, Charlene Taylor, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bLeavitt and Allen, $c1855.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The juvenile forget-me-not : $b A Christmas and New Year''s present'
+url: http://www.gutenberg.org/ebooks/71608
